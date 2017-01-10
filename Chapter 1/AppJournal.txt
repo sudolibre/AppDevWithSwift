@@ -1,0 +1,5 @@
+1. Podcasts - lets me subscribe to podcasts so that I do not have to download them individually. New episodes are downloaded automatically while i'm on wifi.
+2. Dash - Allows fast and offline access to apple documentation. If i'm thinking about a certain problem on the way home from TIY I can quickly browse the documentation withtout requiring a network connection.
+3. Reddit - Allows me to browse reddit and have a little more intuitive controls vs viewing in safari. For example swiping to upvote or collapsing and expanding comment threads
+4. Slack - Allows me to stay in touch with the team as a whole and individual members. It also allows more granular notification control on my phone to make sure it does not get annoying.
+5. Wunderlist - Allows me to quickly jot down notes in my own lists and in shared lists such as the grocery list shared between my girlfriend and I.

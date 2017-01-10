@@ -1,0 +1,3 @@
+1. An app that lets you see political info based on location. Govt represents, any related news, current bills, propositions, etc
+2. An app that allows roommates to communicate and create transparency around shared responsibilities and to allow joint purchases of items for the house
+3. A game similar to werewolf / mafia that is location based with strangers. 
